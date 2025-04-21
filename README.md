@@ -51,4 +51,6 @@ Para o nível 7 com total de 82 fósseis:
 - Restante distribuído como zero para os outros, já que não há fósseis restantes
 
 Níveis incompletos com totais não atingidos são preenchidos com base na proporção de pesos (ponderadores) de cada subnível.
+![image](https://github.com/user-attachments/assets/834ec570-a4fa-41d8-8e6c-c36866132e2a)
+
 
